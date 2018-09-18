@@ -1,0 +1,10 @@
+body {
+    background-color: #607D8B;
+}
+
+@media (min-width: 768px) {
+    .img-title-prg {
+        height: 200px;
+        display: table-cell;
+    }
+}
